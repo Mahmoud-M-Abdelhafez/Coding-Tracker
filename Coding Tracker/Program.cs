@@ -6,9 +6,6 @@
         {
             Console.WriteLine("Hello,Mahmoud!");
             Console.WriteLine("Hello,kemo!");
-            Console.WriteLine("Hello,kemo!");
-            Console.WriteLine("Hello,kemo!");
-            Console.WriteLine("Hello,kemo!");
             Console.WriteLine("Hello,Mahmoud!");
         }
     }
