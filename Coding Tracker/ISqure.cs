@@ -8,7 +8,7 @@ namespace Coding_Tracker
 {
     internal interface ISqure
     {
-        public double Calc_Area(float length , float width);
-        public double Calc_Perimeter(float length, float width);
+        public float Calc_Area(float length , float width);
+        public float Calc_Perimeter(float length, float width);
     }
 }
