@@ -6,7 +6,6 @@ namespace Coding_Tracker
         static void Main(string[] args)
         {
             /*Kemo Code*/
-<<<<<<< kareem-Branch
             Console.WriteLine("Select:\n 1.CalcArea \n 2.CalcPerimeter");
             var selected = int.Parse(Console.ReadLine());
             var squre = new Squre();
