@@ -17,7 +17,7 @@ namespace Coding_Tracker
 
         public float Calc_Perimeter(float length, float width)
         {
-            float perimeter = length + width;
+            float perimeter = (length + width)*2;
             return perimeter;
         }
     }
